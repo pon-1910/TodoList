@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="ldl_title">タイトル：</string>
+    <string name="ldl_content">内容：</string>
+    <string name="btn_input_register">登録</string>
+    <string name="hint_title">タイトルを入力してください</string>
+    <string name="hint_content">内容を入力してください</string>
+    <string name="input_success_massage">登録しました</string>
+    <string name="btn_input_list">一覧画面へ</string>
+    <string name="lbl_empty">表示するTODOはありません</string>
+    <string name="btn_update">更新</string>
+    <string name="update_success">更新に成功しました</string>
+    <string name="update_failed">更新に失敗しました</string>
+    <string name="btn_delete">削除</string>
+    <string name="delete_success">削除しました</string>
+    <string name="delete_failed">削除ができません</string>
+</resources>
